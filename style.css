@@ -31,3 +31,12 @@ div {
 .grow {
   flex-grow: 1;
 }
+
+.bas {
+  justify-content: center;
+  text-align: center;
+}
+
+.textebas {
+  justify-content: center;
+}
